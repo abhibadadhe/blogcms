@@ -2,7 +2,6 @@
 
 ### Project Description
 This is CMS Blog Build with Laravel, It has full control panel functionality with users roles.
-[Recorded Video for the whole project](https://youtu.be/HUvpQ2WR9rg "Recorded Video for the whole project")
 
 ### What I use it this project
 - Laravel Framework 11,
