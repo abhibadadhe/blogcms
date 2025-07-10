@@ -17,23 +17,6 @@ This is CMS Blog Build with Laravel, It has full control panel functionality wit
 - Faker & Database Seeder,
 - jQuery
 - SEO friendly slug URLS,
-l
-### Screenshots
-
-#### Data Base Schema
-<img src="screenshot/schema-database-blog-cms-Yasser-Elgammal.png" width="750" alt="Database Schema - BlogCMS - YasserElgammal">
-
-#### Admin Panel
-<img src="screenshot/admin-panel-admin.png" width="750" alt="Admin Panel - BlogCMS - YasserElgammal">
-
-#### Writer Panel
-<img src="screenshot/admin-panel-writer.png" width="750" alt="Writer Panel - BlogCMS - YasserElgammal">
-
-#### Front Blog
-<img src="screenshot/blog-front.png" width="750" alt="Front Blog - BlogCMS - YasserElgammal">
-
-#### Front Blog - PostView
-<img src="screenshot/post-view.png" width="750" alt="Front Blog - PostView - BlogCMS - YasserElgammal">
 
 
 ### Project Functionality
@@ -91,8 +74,6 @@ GET | api/posts/{id} | Show Specific Post
 
 Iam a Backend Developer with 2+ year of experience, I specialize in PHP, Laravel, and front-end technologies like TailwindCSS and Livewire. I have expertise in developing REST APIs and working with MySQL databases, and I am familiar with software architecture patterns such as MVC and HMVC. I am committed to producing clean, well-documented code that is easily maintainable, and I enjoy sharing my knowledge through various channels. I am eager to take on new challenges and continue to develop my skills.
 
-- [LinkedIn](https://www.linkedin.com/in/elgammal/).
-- [Youtube](https://www.youtube.com/@yasser.elgammal).
-- [Dev_to](https://dev.to/yasserelgammal).
+
 
 
